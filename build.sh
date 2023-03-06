@@ -62,6 +62,6 @@ find -type l -delete
 
 rm *.*a
 
-mv libheif.so.1.13.0 libheif.so
+mv libheif.so.1.15.1 libheif.so
 
 tar -czvf libheif-linux-x64.tar.gz *.*
